@@ -2,3 +2,4 @@ cluster/.terraform
 cluster/account.json
 docker/.terraform
 */terraform.tfstate*
+k8s/.terraform
